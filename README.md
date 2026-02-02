@@ -1,6 +1,6 @@
 # Personalized Recommendation System with Feedback Loop
 
-## Project Overview
+## 📌 Project Overview
 
 - This project is a scalable personalized recommendation engine designed for e-commerce or content platforms.
 - It provides tailored product/content suggestions to users and continuously
