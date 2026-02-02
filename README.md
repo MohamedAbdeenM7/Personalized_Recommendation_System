@@ -1,6 +1,4 @@
-# Personalized Recommendation System
-
-# with Feedback Loop
+# Personalized Recommendation System </n> with Feedback Loop
 
 ## 📌 Project Overview
 
