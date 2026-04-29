@@ -1,0 +1,17 @@
+# Data files
+data/raw/
+data/processed/
+
+# Colab
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Models
+*.pkl
+*.h5
+*.pt
+
+# Environment
+.env
+*.egg-info/
