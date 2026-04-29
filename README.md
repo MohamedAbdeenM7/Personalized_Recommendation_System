@@ -4,13 +4,13 @@
 ---
 
 ## 👥 Team
-- | Student | Role | Milestone |
-- |---------|------|-----------|
-- | Mohamed Abdeen Mostafa | Data Engineer | M1 - Data & EDA |
-- | Student 2 | ML Engineer | M2 - Models |
-- | Student 3 | Backend Dev | M3 - API & Azure |
-- | Student 4 | MLOps Engineer | M4 - Monitoring |
-- | Student 5 | PM & Tech Writer | M5 - Docs |
+- | Student |          Name            |       Role       |    Milestone     |
+- |-----------|------------------------|------------------|
+- | Student 1 | Mohamed Abdeen Mostafa | Data Engineer    | M1 - Data & EDA  |
+- | Student 2 |                        | ML Engineer      | M2 - Models      |
+- | Student 3 |                        | Backend Dev      | M3 - API & Azure |
+- | Student 4 |                        | MLOps Engineer   | M4 - Monitoring  |
+- | Student 5 |                        | PM & Tech Writer | M5 - Docs        |
 
 ---
 
